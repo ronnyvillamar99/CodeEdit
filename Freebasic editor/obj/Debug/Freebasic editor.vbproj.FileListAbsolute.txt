@@ -1,0 +1,64 @@
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe.config
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.pdb
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.xml
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form1.resources
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Resources.resources
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.GenerateResource.Cache
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.exe
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.xml
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.pdb
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ActiproSoftware.Shared.Net20.dll
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form2.resources
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\instaladors de programas\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.ResolveComReference.cache
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe.config
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.ResolveComReference.cache
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.exe
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.xml
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.pdb
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.pdb
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.xml
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ActiproSoftware.Shared.Net20.dll
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form1.resources
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form2.resources
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Resources.resources
+D:\instaladores de programas\Windows\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.GenerateResource.Cache
+F:\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe.config
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.ResolveComReference.cache
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.exe
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.xml
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.pdb
+F:\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe
+F:\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.pdb
+F:\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.xml
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form1.resources
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form2.resources
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Resources.resources
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.GenerateResource.Cache
+F:\Mis programas\Freebasic editor\Freebasic editor\bin\Debug\ICSharpCode.TextEditor.dll
+F:\Mis programas\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.AboutBox1.resources
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe.config
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.exe
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.pdb
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\bin\Debug\Freebasic editor.xml
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbprojAssemblyReference.cache
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.ResolveComReference.cache
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.AboutBox1.resources
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form1.resources
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Form2.resources
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic_editor.Resources.resources
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.GenerateResource.cache
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.CoreCompileInputs.cache
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.vbproj.CopyComplete
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.exe
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.xml
+F:\syterox software for windows\Code Editor\Freebasic editor\Freebasic editor\obj\Debug\Freebasic editor.pdb
