@@ -1,7 +1,6 @@
 # CodeEdit
 
 
-/**	
 *	  CodeEdit Copyright (C) 2019  Syterox Software
 *
 *   This program is free software: you can redistribute it and/or modify
@@ -19,6 +18,6 @@
 *   This program comes with ABSOLUTELY NO WARRANTY; for details support@syterox.com.
 *   This is free software, and you are welcome to redistribute it
 *   under certain conditions; http://www.syterox.com for details.
-***/
+
 
 Editor de texto escrito en Visual Basic .NET, el editor funciona gracias a la librería ICSharpCode.TextEditor https://github.com/KindDragon/ICSharpCode.TextEditor
